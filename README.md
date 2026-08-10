@@ -28,12 +28,14 @@ que desea utilizar.
 ## Ejecución
 
 Para ejecutar el programa se debe utilizar:
-
+Primer avance
 python generador_contrasenas.py
+Segundo avance
+python generador_contrasenas_CU01.py
 
 ## Autor
 
-Nombre del estudiante
+Alejandra Guachamin
 
 ## Materia
 
